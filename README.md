@@ -1,6 +1,3 @@
-Sure, here's a README file for your doctor appointment system web app:
-
----
 
 # Doctor Appointment System
 
